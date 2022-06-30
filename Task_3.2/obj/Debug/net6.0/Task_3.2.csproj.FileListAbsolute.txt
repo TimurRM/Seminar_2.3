@@ -1,0 +1,15 @@
+/Users/relax/Desktop/Seminar_2.3/Task_3.2/bin/Debug/net6.0/Task_3.2
+/Users/relax/Desktop/Seminar_2.3/Task_3.2/bin/Debug/net6.0/Task_3.2.deps.json
+/Users/relax/Desktop/Seminar_2.3/Task_3.2/bin/Debug/net6.0/Task_3.2.runtimeconfig.json
+/Users/relax/Desktop/Seminar_2.3/Task_3.2/bin/Debug/net6.0/Task_3.2.dll
+/Users/relax/Desktop/Seminar_2.3/Task_3.2/bin/Debug/net6.0/Task_3.2.pdb
+/Users/relax/Desktop/Seminar_2.3/Task_3.2/obj/Debug/net6.0/Task_3.2.csproj.AssemblyReference.cache
+/Users/relax/Desktop/Seminar_2.3/Task_3.2/obj/Debug/net6.0/Task_3.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/relax/Desktop/Seminar_2.3/Task_3.2/obj/Debug/net6.0/Task_3.2.AssemblyInfoInputs.cache
+/Users/relax/Desktop/Seminar_2.3/Task_3.2/obj/Debug/net6.0/Task_3.2.AssemblyInfo.cs
+/Users/relax/Desktop/Seminar_2.3/Task_3.2/obj/Debug/net6.0/Task_3.2.csproj.CoreCompileInputs.cache
+/Users/relax/Desktop/Seminar_2.3/Task_3.2/obj/Debug/net6.0/Task_3.2.dll
+/Users/relax/Desktop/Seminar_2.3/Task_3.2/obj/Debug/net6.0/refint/Task_3.2.dll
+/Users/relax/Desktop/Seminar_2.3/Task_3.2/obj/Debug/net6.0/Task_3.2.pdb
+/Users/relax/Desktop/Seminar_2.3/Task_3.2/obj/Debug/net6.0/Task_3.2.genruntimeconfig.cache
+/Users/relax/Desktop/Seminar_2.3/Task_3.2/obj/Debug/net6.0/ref/Task_3.2.dll
